@@ -8,3 +8,6 @@ Budowa i Integracja Systemów Informatycznych (BYT) - 2023/2024
 <h2 align="center"> Prowadzący Ćwiczenia - Wiktor Filipowicz </h2>
 <h3>Opis</h3>
 Zadania z BYT rozwiązane przeze mnie.
+
+<h3>Disclaimer</h3>
+Zadania wrzucone na git'a są to tylko zadania indywidualne - nie wrzucam projektu
